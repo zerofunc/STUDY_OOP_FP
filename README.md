@@ -1,1 +1,3 @@
 # STUDY_OOP_FP
+
+OOP와 FP 스터디 
